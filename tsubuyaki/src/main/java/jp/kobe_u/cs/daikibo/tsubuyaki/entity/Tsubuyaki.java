@@ -1,6 +1,6 @@
 package jp.kobe_u.cs.daikibo.tsubuyaki.entity;
 
-import java.sql.Date;
+import java.util.Date;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
